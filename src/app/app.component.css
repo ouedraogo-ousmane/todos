@@ -1,0 +1,17 @@
+h2 {
+    text-align: center;
+}
+
+.row-6 {
+    margin-top: 25px;
+    border: 1px dotted black;
+    padding: 15px;
+}
+
+.deleteLabel {
+    margin-right: 35px;
+}
+
+.deletePercent {
+    margin-right: 8px;
+}
